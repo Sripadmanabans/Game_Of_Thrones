@@ -1,0 +1,1 @@
+This is my solution to the Game of Thrones problem in HackerRank
